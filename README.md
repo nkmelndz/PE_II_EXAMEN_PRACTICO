@@ -1,8 +1,11 @@
-"Examen Práctica Unidad II - PETI", "Cesar Nikolas Camac Melendez", 22/10/2025
-AVANCE 1:
+# Examen Práctica Unidad II - PETI  
+**Autor:** Cesar Nikolas Camac Melendez  
+**Fecha:** 22/10/2025  
+
+## AVANCE 1:
 ![alt text](image.png)
-AVANCE 2:
+
+## AVANCE 2:
 ![alt text](image-1.png)
 
-https://github.com/nkmelndz/PE_II_EXAMEN_PRACTICO
-
+🔗 [Repositorio en GitHub](https://github.com/nkmelndz/PE_II_EXAMEN_PRACTICO)
